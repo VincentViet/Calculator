@@ -1,2 +1,2 @@
 # Calculator
-Ứng dụng máy tính
+Ứng dụng máy tính bỏ túi.
